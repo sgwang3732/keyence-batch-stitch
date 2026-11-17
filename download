@@ -1,0 +1,13 @@
+# Experimental data
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[bB][cC][fF]
+# Temporary files and logs
+_stitch_work_*/
+stitch_batch_log_*.txt
+# OS/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
